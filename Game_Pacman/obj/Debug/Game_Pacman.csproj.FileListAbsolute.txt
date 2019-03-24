@@ -1,0 +1,11 @@
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\bin\Debug\Game_Pacman.exe.config
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\bin\Debug\Game_Pacman.exe
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\bin\Debug\Game_Pacman.pdb
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\obj\Debug\Game_Pacman.csprojResolveAssemblyReference.cache
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\obj\Debug\Game_Pacman.Properties.Resources.resources
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\obj\Debug\Game_Pacman.csproj.GenerateResource.Cache
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\obj\Debug\Game_Pacman.exe
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\obj\Debug\Game_Pacman.pdb
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\obj\Debug\Game_Pacman.Form1.resources
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\bin\Debug\nunit.framework.dll
+C:\Users\Truong Hoang Bao\Desktop\Game\Game_Pacman\Game_Pacman\bin\Debug\nunit.framework.xml
